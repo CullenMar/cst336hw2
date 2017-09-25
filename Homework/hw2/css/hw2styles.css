@@ -3,7 +3,7 @@ body {
 }
 
 #main {
-    background-image:url("/Homework/hw2/images/bowl_lane2.jpg");
+    background-image:url("../images/bowl_lane2.jpg");
     top:180px;
     left:175px;
     width:900px;
